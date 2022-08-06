@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 06 Aug 2022 03:47:28 at http://demo.themekita.com/atlantis/livepreview/examples/demo1/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.themekita.com/atlantis/livepreview/examples/demo1/ -O1 "D:\spa-theme" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:47:31	Warning: 	Moved Permanently for demo.themekita.com/robots.txt
+03:47:31	Warning: 	Redirected link is identical because of 'URL Hack' option: demo.themekita.com/robots.txt and https://demo.themekita.com/robots.txt
+03:47:31	Warning: 	Warning moved treated for demo.themekita.com/robots.txt (real one is https://demo.themekita.com/robots.txt)
+03:48:40	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/demo1/profile.html (from demo.themekita.com/atlantis/livepreview/examples/demo1/)
+03:51:05	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/demo1/single-group.php (from demo.themekita.com/atlantis/livepreview/examples/demo1/)
+03:51:05	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/demo1/single-event.php (from demo.themekita.com/atlantis/livepreview/examples/demo1/)
+03:51:05	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/assets/css/owl.video.play.png (from demo.themekita.com/atlantis/livepreview/examples/assets/css/atlantis.css)
+03:51:05	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/demo1/components/profile.html (from demo.themekita.com/atlantis/livepreview/examples/demo1/components/avatars.html)
+03:51:05	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/demo1/components/index.html (from demo.themekita.com/atlantis/livepreview/examples/demo1/components/notifications.html)
+03:51:05	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/demo1/forms/profile.html (from demo.themekita.com/atlantis/livepreview/examples/demo1/forms/forms.html)
+03:51:05	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/demo1/tables/profile.html (from demo.themekita.com/atlantis/livepreview/examples/demo1/tables/tables.html)
+03:51:05	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/demo1/tables/index.html (from demo.themekita.com/atlantis/livepreview/examples/demo1/tables/tables.html)
+03:51:05	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/demo1/maps/profile.html (from demo.themekita.com/atlantis/livepreview/examples/demo1/maps/googlemaps.html)
+03:51:05	Error: 	"Not Found" (404) at link https://demo.themekita.com/atlantis/livepreview/examples/demo1/charts/profile.html (from demo.themekita.com/atlantis/livepreview/examples/demo1/charts/charts.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 38 seconds : 151 links scanned, 138 files written (8534153 bytes overall) [4523786 bytes received at 20751 bytes/sec], 4984399 bytes transferred using HTTP compression in 87 files, ratio 18%, 2.9 requests per connection
+(11 errors, 3 warnings, 0 messages)
